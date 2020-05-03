@@ -1,0 +1,7 @@
+C:\Users\Pablo Victor\Desktop\219_Exercicio-Lambda\219_Exercicio-Lambda\bin\Debug\219_Exercicio-Lambda.exe.config
+C:\Users\Pablo Victor\Desktop\219_Exercicio-Lambda\219_Exercicio-Lambda\bin\Debug\219_Exercicio-Lambda.exe
+C:\Users\Pablo Victor\Desktop\219_Exercicio-Lambda\219_Exercicio-Lambda\bin\Debug\219_Exercicio-Lambda.pdb
+C:\Users\Pablo Victor\Desktop\219_Exercicio-Lambda\219_Exercicio-Lambda\obj\Debug\219_Exercicio-Lambda.csprojAssemblyReference.cache
+C:\Users\Pablo Victor\Desktop\219_Exercicio-Lambda\219_Exercicio-Lambda\obj\Debug\219_Exercicio-Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Victor\Desktop\219_Exercicio-Lambda\219_Exercicio-Lambda\obj\Debug\219_Exercicio-Lambda.exe
+C:\Users\Pablo Victor\Desktop\219_Exercicio-Lambda\219_Exercicio-Lambda\obj\Debug\219_Exercicio-Lambda.pdb
